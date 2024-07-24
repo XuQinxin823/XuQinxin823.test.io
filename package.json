@@ -1,0 +1,11 @@
+{
+  "name": "xuqinxin823.github.io-main",
+  "version": "1.0.0",
+  "description": "Applepay Demo for checkout.com",
+  "main": "App.js",
+  "scripts": {
+    "test": "node App.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
